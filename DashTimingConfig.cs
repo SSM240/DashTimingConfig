@@ -1,15 +1,9 @@
-using log4net.Repository.Hierarchy;
 using MonoMod.Cil;
 using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using Terraria.ModLoader;
 
 namespace DashTimingConfig
 {
-    // Please read https://github.com/tModLoader/tModLoader/wiki/Basic-tModLoader-Modding-Guide#mod-skeleton-contents for more information about the various files in a mod.
     public class DashTimingConfig : Mod
     {
         public override void Load()
