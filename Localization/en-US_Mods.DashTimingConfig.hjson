@@ -1,0 +1,16 @@
+Configs: {
+	DashTimingConfigConfig: {
+		DisplayName: Dash Timing Config
+
+		DashTime: {
+			Label: Dash Timing Window (frames)
+			Tooltip:
+				'''
+				How quickly left or right has to be double tapped to count as a dash, in frames.
+				The default of 15 is equal to 0.25 seconds.
+				Lower values make the timing stricter, higher values make it more lenient.
+				Recommended to keep somewhere in the range of 10-20.
+				'''
+		}
+	}
+}
