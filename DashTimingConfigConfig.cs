@@ -6,7 +6,7 @@ namespace DashTimingConfig
 {
     public class DashTimingConfigConfig : ModConfig
     {
-        public override ConfigScope Mode => ConfigScope.ClientSide;
+        public override ConfigScope Mode => ConfigScope.ServerSide;
 
         [DefaultValue(15)]
         [Range(2, 30)]

@@ -1,4 +1,4 @@
 displayName = Dash (Double Tap) Timing Config
 author = SSM24
-version = 1.0
+version = 1.1
 includeSource = true
