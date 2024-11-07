@@ -1,0 +1,7 @@
+A simple mod that lets you configure the double tap timing window for dashes.
+
+By default you have 15 frames to double tap left/right to dash with items like Shield of Cthulhu. This lets you adjust the timing window to be wider (to make it easier to dash) or stricter (to prevent accidental dashes).
+
+If you find yourself accidentally dashing a little too often for your liking, try a value like 12 to make the timing a bit stricter.
+
+The source code for the mod is available on [url=https://github.com/SSM240/DashTimingConfig]GitHub[/url].
